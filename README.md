@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+**I'm Anurag.**
+
+💻  About Me
+- 🤔   Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓   Studying Software Engineering at Heritage Institute of Technology.
+
+🛠  Tech Stack
+- 🌐   PHP JavaScript Node.js React
+- 🛢   MongoDB MySQL SQL
+- ⚙️   Git GitHub Markdown
+- 🔧   Visual Studio Code
+
+
+
 <!--
 **anurag001/anurag001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
